@@ -35,7 +35,7 @@ print('Median of the frequency:',f)
 
 
 # Width of median class
-width = df["Age"][3].length
+width = df["Age"][3].lengthx
 print('The width is:', width)
 
 median = (((n/2 - cum_sum)/f)*width) + left
